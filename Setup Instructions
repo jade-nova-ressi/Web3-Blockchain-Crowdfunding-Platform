@@ -1,0 +1,9 @@
+
+git clone https://github.com/jadenyangaresi/web3-crowdfunding.git
+cd web3-crowdfunding
+npm install
+cp .env.example .env
+npm run dev
+
+Add verified contract compile/deploy steps for the recovered framework. Use a local chain or testnet; never expose seed phrases or private keys.
+
