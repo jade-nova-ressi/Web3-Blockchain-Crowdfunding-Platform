@@ -1,1 +1,2 @@
-# Web3-Blockchain-Crowdfunding-Platform
+This project is a blockchain-based crowdfunding platform that allows users to create fundraising campaigns and contribute through an Ethereum wallet. Built with Solidity, React, Ethereum, and MetaMask, the application records campaign activity and transactions through smart contracts, improving transparency and traceability. The project demonstrates Jade's understanding of Web3 development, wallet authentication, smart-contract logic, blockchain transactions, and secure decentralized application design.
+
