@@ -1,0 +1,7 @@
+
+flowchart LR
+    A[React app] --> B[MetaMask]
+    B --> C[Ethereum network]
+    C --> D[Crowdfunding contract]
+    D --> E[Campaign state and events]
+
