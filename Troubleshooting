@@ -1,0 +1,8 @@
+Wrong network: prompt the user to switch to the configured chain.
+
+Transaction reverts: inspect contract conditions, funds, gas estimate, and revert reason.
+
+Stale UI: subscribe to events or refresh on transaction confirmation.
+
+Security: add contract tests for authorization, reentrancy exposure, and boundary conditions.
+
